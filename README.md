@@ -1,4 +1,6 @@
-### Opa, Beleza? Eu sou o Ailton Peron Junior
+### Opa, Beleza? Eu sou  __Ailton Peron Junior__
+
+> Desenvolvedor RPA - Uipath
 
 <div align="center">
   <a href="https://github.com/juniorperon">
@@ -13,6 +15,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="right" alt="junior-foto" height="150" style="border-radius:50px;" src="https://github.com/juniorperon/juniorperon/blob/main/juniorperon.gif">
 </div>
   
