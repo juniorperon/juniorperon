@@ -1,6 +1,7 @@
 ### Opa, Beleza? Eu sou  __Ailton Peron Junior__
 
-> Desenvolvedor RPA - Uipath | Javascript | React e NodeJs
+> Desenvolvedor RPA - Uipath
+> Desenvolvedor Web - Javascript | React e NodeJs | Html e Css
 
 <div align="center">
   <a href="https://github.com/juniorperon">
